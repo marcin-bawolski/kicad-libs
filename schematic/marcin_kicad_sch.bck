@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MNMOS_V2
+D N-channel MOSFET symbol for simulation only
+K mosfet nmos simulation
+F ~
+$ENDCMP
+#
 $CMP POE13P-XX
 D Transformer, single primary, dual secondary
 K transformer coil magnet
