@@ -1,0 +1,75 @@
+(footprint "1pin_2mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "module 1 pin (ou trou mecanique de percage)")
+	(tags "DEV")
+	(property "Reference" "REF**"
+		(at -2 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "a2832d9a-6e2c-4024-84e4-94f0bd0356a7")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.3048)
+			)
+		)
+	)
+	(property "Value" "CONN_1"
+		(at 0 2.794 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1203789a-5cd4-4f0b-98fd-8601f99fb8c6")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.3048)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11b626c5-fe1d-4cdd-bace-ce0969c50559")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "300ab112-c22c-4373-b222-73e27f9a1d99")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -2.286)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1dfefa01-a8ef-4cf7-8dfc-8d318fa1c8d5")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 4.064 4.064)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5506827e-07be-4c7a-9141-505be7d90829")
+	)
+	(embedded_fonts no)
+)
