@@ -213,7 +213,7 @@
 	(pad "1" thru_hole circle
 		(at -10.16 17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "6c539bd1-b040-4e3c-99e3-f22e79dbc29b")
@@ -221,7 +221,7 @@
 	(pad "2" thru_hole circle
 		(at -5.08 17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "f8984a4b-6c81-429f-b468-b459d46f1eda")
@@ -229,7 +229,7 @@
 	(pad "3" thru_hole circle
 		(at 0 17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "baa250cf-20d2-46c0-a9e9-95f882dfd3e8")
@@ -237,7 +237,7 @@
 	(pad "4" thru_hole circle
 		(at 5.08 17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "8860c4bf-9402-4dd6-8823-860bee722f9a")
@@ -245,7 +245,7 @@
 	(pad "5" thru_hole circle
 		(at 10.16 17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "6dd4ffc4-06fe-413b-aedb-637b19d486e8")
@@ -253,7 +253,7 @@
 	(pad "6" thru_hole circle
 		(at 10.16 -17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "c53b682e-dbe6-4bb0-8187-31b6380c35e8")
@@ -261,7 +261,7 @@
 	(pad "7" thru_hole circle
 		(at 5.08 -17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "8df76386-1df7-43a9-a28c-5e956d9f8b24")
@@ -269,7 +269,7 @@
 	(pad "8" thru_hole circle
 		(at 0 -17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "a87d4c39-7ef9-4c02-9c09-cac03bc6e47e")
@@ -277,7 +277,7 @@
 	(pad "9" thru_hole circle
 		(at -5.08 -17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "52a8fa68-68f8-43ae-a0f9-70bc163e9392")
@@ -285,7 +285,7 @@
 	(pad "10" thru_hole circle
 		(at -10.16 -17.78)
 		(size 3 3)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "d9d7d738-0596-4226-9967-889c6c477061")
